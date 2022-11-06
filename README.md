@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hello!</h2>
-    <h4>My name is Jaxon and I am a student studying year 12 in highschool.</h4>
+    <h4>My name is Jaxon and I am a student in Year 12</h4>
     <h4>I've been programming for about a year, but have been interested in computers since i was a kid</h4>
     <h4>I enjoy making things and helping people, and hope to make a positive impact on the world in the future</h4>
     <img height="500" src="https://i.imgur.com/WtVOjr6.gif">
