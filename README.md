@@ -1,8 +1,4 @@
 <div align="center">
-    <h2>Hello!</h2>
-    <h4>My name is Jaxon and I am a student in year 12</h4>
-    <h4>I've been programming for about a year, but have been interested in computers since i was a kid</h4>
-    <h4>I enjoy making things and helping people, and hope to make a positive impact on the world in the future</h4>
     <img height="500" src="https://i.imgur.com/WtVOjr6.gif">
 </div>
 
@@ -20,8 +16,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo">
     <br clear="both">
-    <h2>Socials:</h2>
-    <a href="https://www.instagram.com/jaxonl2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo">
     </a>
 </div>
